@@ -18,6 +18,8 @@ This artifact was selected for my ePortfolio as it allows me to me to showcase m
 ## Algorithms and Data Structures
 **Enhancement Update and Process.** For algorithms and data structures, the playlist application was updated in the prior milestone to automatically open the playlist in YouTube. An excel export of songs for the user to meet the database requirement. The process of adding the external link out to YouTube in the prior milestone was fairly easy, however I had more difficulty with implementing an excel export of data. 
 [**Youtube Video - Algorithms and Data Structures Demo**](https://www.youtube.com/watch?v=B1LUj-c07Y0&feature=youtu.be)
+![Playlist Export](https://user-images.githubusercontent.com/80024222/115176308-da21fb80-a09a-11eb-8325-062421561bc1.png)
+
 
 ## Databases
 **Enhancement Update and Process.** For databases, the playlist application was updated to export the playlist songlist into an Excel file saved on the user’s desktop. The Excel exporter was tested and updated in the program’s documentation. Apache POI jars had to be installed and called on for the Excel exporter to run successfully, which was a difficult setup in Eclipse IDE. The actual coding of the exporter was very simple, but I ran into many difficulties with path directories crashing after adding new dependencies in my pom.xml file. After fixing these issues, the exporter runs successfully.
